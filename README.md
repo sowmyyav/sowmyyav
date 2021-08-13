@@ -1,4 +1,4 @@
-👋 Hi, I’m Sowmya Vijayakumar, PhD student at Athlone Institute of Technology.
+Emotion Recognition from Respiration data using LSTM
 
 <!---
 
